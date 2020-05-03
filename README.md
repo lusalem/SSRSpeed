@@ -13,7 +13,7 @@ Batch speed measuring tool based on Shadowsocks(R) and V2Ray
 
 ## Links
 
-- <del>中文文档</del>
+- [中文文档](https://github.com/lusalem/SSRSpeed/blob/master/README_ZH_CN.md)
 
 ## Important Hint
 
